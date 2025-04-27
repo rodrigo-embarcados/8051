@@ -9,6 +9,8 @@ To burn the .hex file to the microcontroller or clean the folder in case of chan
 
     Erase: "make clean"
 
+
+
 Este repositório contém projetos que eu desenvolvi usando uma placa de desenvolvimento chinesa com o microcontrolador STC89C52RC. 
 Estes projetos mostram meu trabalho com sistemas embarcados, focando em aprender como programaar para a arquitetura 8051 usando o compilador SDCC e o stcgal para gravar o arquivo .hex.
 Todos os projetos foram desenvolvidos usando Linux. Cada projeto inclui um Makefile e um main.c.
