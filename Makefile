@@ -1,3 +1,5 @@
+#Modelo de makefile usado para compilar os projeots usando sdcc no linux:
+
 # Nome do projeto
 TARGET = 
 
